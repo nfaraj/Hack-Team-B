@@ -1,2 +1,2 @@
-# Hack-Team-2
-Hackaton 2019 Team 2
+# Hack-Team-B
+Hackaton 2019 Team B
